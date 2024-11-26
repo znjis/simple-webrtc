@@ -13,3 +13,6 @@ A simple peer-to-peer app that enables two users to video chat.
 - Socket.io
 - Express.js
 - React with Vite
+
+
+<img width="729" alt="Screenshot 2024-11-26 at 12 30 44 AM" src="https://github.com/user-attachments/assets/7afd9b55-5e64-4360-96d8-046059d019c9">
